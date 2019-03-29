@@ -1,6 +1,8 @@
 LIST OF CHANGES
 ---------------
 
+ - additional 'GnT MDA' library type added to allowed types for gbs analysis 
+
 release 54.1.1
  - bug fix in command generation for iRODS data archival from old-style
    run folders
